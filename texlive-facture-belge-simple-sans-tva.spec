@@ -1,6 +1,6 @@
 Name:		texlive-facture-belge-simple-sans-tva
-Version:	49004
-Release:	2
+Version:	67573
+Release:	1
 Summary:	Simple Belgian invoice without VAT
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/facture-belge-simple-sans-tva
