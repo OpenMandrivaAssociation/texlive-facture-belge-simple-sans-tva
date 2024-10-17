@@ -3,7 +3,7 @@ Version:	67573
 Release:	1
 Summary:	Simple Belgian invoice without VAT
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/facture-belge-simple-sans-tva
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/facture-belge-simple-sans-tva
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/facture-belge-simple-sans-tva.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/facture-belge-simple-sans-tva.doc.r%{version}.tar.xz
